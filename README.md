@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m in a **Computer Engineer**
+ 🔭 I’m  a **Computer Engineer**
  
  🌱 I’m currently learning **Docker, AWS and React Native**
 
