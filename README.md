@@ -40,15 +40,7 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  ![snake animation](https://github.com/<seu nabinhamal>/<seu nabinhamal>/blob/output/github-contribution-grid-snake2.svg)
-  
-  <br/><br/><br/>
-</div>
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
