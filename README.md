@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nabin+Hamal!;" />
 </h1>
 
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+<h3 align="center">A passionate fullstack developer </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently in a **college**
+ 🔭 I’m in a **Computer Engineer**
  
- 🌱 I’m currently learning **Docker, AWS and more...**
+ 🌱 I’m currently learning **Docker, AWS and React Native**
 
  </div>
  
@@ -43,7 +43,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nabinhamal/nabinhamal/output/github-contribution-grid-snake.svg" />
+  ![snake animation](https://github.com/<seu nabinhamal>/<seu nabinhamal>/blob/output/github-contribution-grid-snake2.svg)
   
   <br/><br/><br/>
 </div>
