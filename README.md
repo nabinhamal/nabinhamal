@@ -19,7 +19,6 @@
 **🤖 About Me:**
 ```javascript
 const nabin = {
-    pronouns: "He/Him",
     location: "Nepal 🇳🇵",
     currentRole: "Full-Stack Developer",
     company: "Open for opportunities",
