@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nabin%20Hamal&fontSize=90&fontAlign=50&fontAlignY=45&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20Cloud&descSize=20&descAlignY=68&descAlign=50&stroke=7C3AED&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nabin%20Hamal&fontSize=90&fontAlign=50&fontAlignY=45&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Cloud&descSize=20&descAlignY=68&descAlign=50&stroke=7C3AED&strokeWidth=2"/>
 
 </div>
 
 <!-- TYPING HEADLINE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Building+products+people+love+%F0%9F%9A%80;React+%2F+Next.js+%2F+React+Native+%F0%9F%92%BB;From+Kathmandu+to+the+Cloud+%E2%98%81%EF%B8%8F;Open+to+exciting+opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=Software+Developer+%F0%9F%92%BB;Full-Stack+Web+%26+Mobile+Builder+%F0%9F%9A%80;React+%2F+Next.js+%2F+TypeScript+Expert+%E2%9C%A8;From+Kathmandu+to+the+Cloud+%E2%98%81%EF%B8%8F;Open+to+exciting+opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -15,10 +15,10 @@
 <!-- QUICK CONTACT BAR -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_nabinhamal.com.np-7C3AED?style=flat-square&logoColor=white)](https://nabinhamal.com.np)&nbsp;
-[![Email](https://img.shields.io/badge/📧_nabinhamal2@gmail.com-0f0c29?style=flat-square&logoColor=white)](mailto:nabinhamal2@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_nabinhamal.com.np-7C3AED?style=flat-square)](https://nabinhamal.com.np)&nbsp;
+[![Email](https://img.shields.io/badge/📧_nabinhamal2@gmail.com-0f0c29?style=flat-square)](mailto:nabinhamal2@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-302b63?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabinhamal)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-24243e?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nabinhamal)
+[![GitHub](https://img.shields.io/badge/GitHub-24243e?style=flat-square&logo=github&logoColor=white)](https://github.com/nabinhamal)
 
 </div>
 
@@ -26,52 +26,49 @@
 
 ---
 
-<!-- ABOUT + CODE BLOCK SPLIT -->
+<!-- ABOUT + CODE BLOCK -->
 <table width="100%" border="0">
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
 ## 👤 Who Am I?
 
-I'm a **Full-Stack Developer** based in 🇳🇵 **Kathmandu, Nepal** — obsessed with turning ideas into clean, fast, and delightful digital products.
+**Software Developer** based in 🇳🇵 **Kathmandu, Nepal** with hands-on experience building production-ready full-stack web applications using **React, Next.js, TypeScript, and PostgreSQL.**
 
-Whether it's a **pixel-perfect React UI**, a **scalable Node.js API**, or a **cross-platform mobile app**, I care about the details that make users say *"wow."*
+I specialize in designing REST APIs, implementing authentication systems, optimizing databases for real-world usage, and building scalable enterprise systems — with a strong eye for clean architecture and performance.
 
-Currently leveling up in:
-- 🐳 **Docker & Kubernetes** — containerizing everything
-- ☁️ **AWS** — cloud-native architecture
-- 📱 **React Native** — smooth mobile experiences
-- 🏗️ **System Design** — thinking at scale
+Currently at **Diagonal Group**, building full-stack apps with **Next.js Server Actions** and improving API response times by **30%+.**
 
 > *"Code is craft. Ship with intention."*
 
-📬 Open to **collaborations, freelance work**, and **full-time roles.**
+📬 **Open to full-time roles, freelance & collaborations.**
 
 </td>
-<td width="45%" valign="top">
+<td width="48%" valign="top">
 
 ```typescript
 // nabin.config.ts
 
 const developer = {
   name:     "Nabin Hamal",
-  role:     "Full-Stack Developer",
+  role:     "Software Developer",
   location: "Kathmandu, Nepal 🏔️",
 
   stack: {
-    frontend:  ["React", "Next.js", "Tailwind"],
-    backend:   ["Node.js", "Express", "GraphQL"],
+    frontend:  ["React", "Next.js", "TypeScript", "Tailwind"],
+    backend:   ["Node.js", "Express", "Prisma ORM"],
     mobile:    ["React Native"],
-    database:  ["MongoDB", "PostgreSQL", "Redis"],
-    cloud:     ["AWS", "Docker", "Linux"],
+    database:  ["PostgreSQL", "MongoDB", "Redis"],
+    auth:      ["Clerk Auth", "Better Auth", "OAuth 2.0"],
+    cloud:     ["Docker", "AWS", "CI/CD"],
   },
 
-  currentlyBuilding: "Cloud-Native Applications ☁️",
-  funFact: "I debug with console.log() 🐛",
+  currentRole: "Software Dev @ Diagonal Group",
+  funFact:     "I debug with console.log() 🐛",
 
   goals2025: [
-    "Master Kubernetes",
-    "Launch a SaaS product",
+    "Scale MenuFlow to 100+ restaurants",
+    "Build & launch a SaaS product",
     "Contribute to major OSS",
     "Learn Rust",
   ],
@@ -102,18 +99,25 @@ export default developer;
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔐 Auth & Security
+![Clerk](https://img.shields.io/badge/Clerk_Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 🚀 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -121,10 +125,11 @@ export default developer;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-### 🎨 Design & Tools
+### 🎨 Tools & Platforms
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 </div>
 
@@ -136,56 +141,52 @@ export default developer;
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Project One
-> *Replace with your real project name*
+### 🍽️ MenuFlow
+**Digital Restaurant Menus & Analytics Platform**
 
-A brief 2-line description of what this project does and why it matters. What problem does it solve?
+A multi-tenant SaaS platform enabling restaurants to digitize operations with **QR-based menus**, contactless ordering, and online payments. Features real-time analytics, Stripe subscription billing, and multi-restaurant role-based access control.
 
-**Stack:** `React` `Node.js` `MongoDB` `AWS`
+**Stack:** `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Stripe` `Cloudinary` `TanStack Query`
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-7C3AED?style=flat-square&logo=github)](https://github.com/nabinhamal)
-[![Live](https://img.shields.io/badge/Live-Demo-00C896?style=flat-square&logo=vercel)](https://nabinhamal.com.np)
+[![Live](https://img.shields.io/badge/🌐_Live-menuflows.vercel.app-7C3AED?style=flat-square)](https://menuflows.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Project Two
-> *Replace with your real project name*
+### 📅 Routinly
+**Automated Academic Routine Management SaaS**
 
-A brief 2-line description of what this project does and why it matters. What problem does it solve?
+An automated academic scheduling platform with **rule-based logic** to allocate time slots based on teacher availability, subjects, and department constraints. Supports Super Admin, Org Owner, Admin, Teacher, and Student roles.
 
-**Stack:** `React Native` `Firebase` `GraphQL`
+**Stack:** `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Better Auth` `TanStack Query`
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-7C3AED?style=flat-square&logo=github)](https://github.com/nabinhamal)
-[![Live](https://img.shields.io/badge/Live-Demo-00C896?style=flat-square&logo=appstore)](https://nabinhamal.com.np)
+[![Live](https://img.shields.io/badge/🌐_Live-routinly.vercel.app-7C3AED?style=flat-square)](https://routinly.vercel.app)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ Project Three
-> *Replace with your real project name*
+### 🏠 Diagonal Platform
+**Real Estate & Business Solutions**
 
-A brief 2-line description of what this project does and why it matters. What problem does it solve?
+Full-stack property management platform with **admin dashboard**, property approval workflows, visitor tracking, real-time analytics, and content management. Clerk Auth for secure multi-level user permissions.
 
-**Stack:** `Next.js` `PostgreSQL` `Docker` `AWS`
+**Stack:** `Next.js` `TypeScript` `MongoDB` `Prisma` `Clerk Auth` `TanStack Query`
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-7C3AED?style=flat-square&logo=github)](https://github.com/nabinhamal)
-[![Live](https://img.shields.io/badge/Live-Demo-00C896?style=flat-square&logo=vercel)](https://nabinhamal.com.np)
+[![Live](https://img.shields.io/badge/🌐_Live-diagonalhomes.com-7C3AED?style=flat-square)](https://www.diagonalhomes.com)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Project Four
-> *Replace with your real project name*
+### ⚡ Accustech Website
+**Modern Business Website with Advanced Animations**
 
-A brief 2-line description of what this project does and why it matters. What problem does it solve?
+High-performance business website built with **React 19 and Next.js**, featuring advanced GSAP animations, custom micro-interactions, and optimized rendering strategies for a smooth, engaging user experience.
 
-**Stack:** `TypeScript` `Express` `Redis` `Linux`
+**Stack:** `React 19` `Next.js` `GSAP` `TypeScript` `Framer Motion`
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-7C3AED?style=flat-square&logo=github)](https://github.com/nabinhamal)
-[![Live](https://img.shields.io/badge/Live-Demo-00C896?style=flat-square&logo=vercel)](https://nabinhamal.com.np)
+[![Live](https://img.shields.io/badge/🌐_Live-accustech.com.au-7C3AED?style=flat-square)](https://accustech.com.au)
 
 </td>
 </tr>
@@ -199,14 +200,14 @@ A brief 2-line description of what this project does and why it matters. What pr
 
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
-<td>
+<td align="center">
 
 ![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabinhamal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&count_private=true&include_all_commits=true)
 
 </td>
-<td>
+<td align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabinhamal&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FFAD33&sideNums=FFFFFF&sideLabels=A78BFA&dates=888888)
 
@@ -216,17 +217,13 @@ A brief 2-line description of what this project does and why it matters. What pr
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinhamal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nabinhamal&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area_color=7C3AED&area=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinhamal&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -236,13 +233,48 @@ A brief 2-line description of what this project does and why it matters. What pr
 
 ---
 
-## 🎯 2025 Roadmap
+## 💼 Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🟣 Software Developer
+**Diagonal Group** · *Balkumari, Imadol, Lalitpur*
+📅 *Apr 2025 – Present*
+
+- Built full-stack apps with **Next.js + TypeScript + Server Actions**
+- Improved API response times by **~30%** via SSR & query optimization
+- Built admin dashboards with analytics, user management & moderation
+- Implemented **Clerk Auth** with role-based access control
+- Optimized data sync with **TanStack Query**, reducing network requests
+
+</td>
+<td width="50%" valign="top">
+
+### 🔵 MERN Stack Developer
+**Mantrain Nepal Pvt Ltd** · *Sunderbasti, Bhaktapur*
+📅 *Feb 2024 – Jan 2025*
+
+- Developed & maintained RESTful APIs with **Node.js + Express.js**
+- Reduced MongoDB query execution time by **45%** via indexing
+- Built reusable middleware for auth, error handling, and logging
+- Integrated **payment gateways** and analytics platforms
+- Maintained **99.5% uptime** via performance optimization & caching
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 2025 Goals
 
 <div align="center">
 
 | Goal | Status |
 |------|--------|
-| 🐳 Master Kubernetes | 🔄 In Progress |
+| 🍽️ Scale MenuFlow to 100+ restaurants | 🔄 In Progress |
 | 📦 Build & launch a SaaS product | 🔄 In Progress |
 | 🌍 Contribute to major OSS projects | 🎯 Planned |
 | 🦀 Learn Rust programming language | 🎯 Planned |
@@ -254,7 +286,7 @@ A brief 2-line description of what this project does and why it matters. What pr
 <!-- SNAKE ANIMATION -->
 <div align="center">
 
-<h2>🐍 Contribution Snake</h2>
+### 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
