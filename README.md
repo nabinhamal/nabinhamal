@@ -1,130 +1,214 @@
-<!-- Animated Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,10:FFBA08,30:F77737,75:F25C54,100:9B59B6&height=200&section=header&text=Nabin%20Hamal&fontSize=80&fontAlign=50&fontAlignY=40&fontColor=ffffff"/>
+
+<!-- HERO BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Nabin%20Hamal&fontSize=90&fontAlign=50&fontAlignY=45&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20Cloud&descSize=20&descAlignY=68&descAlign=50&stroke=7C3AED&strokeWidth=2"/>
+
 </div>
 
-<!-- Typing Animation -->
+<!-- TYPING HEADLINE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=E73C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+🚀;React+/+Next+JS+Developer+💻;Mobile+App+Developer+📱;Cloud+Enthusiast+☁️;Problem+Solver+🧩;Always+Learning+New+Tech+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Building+products+people+love+%F0%9F%9A%80;React+%2F+Next.js+%2F+React+Native+%F0%9F%92%BB;From+Kathmandu+to+the+Cloud+%E2%98%81%EF%B8%8F;Open+to+exciting+opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- Profile Info in animated style -->
+<!-- QUICK CONTACT BAR -->
 <div align="center">
-<table bordercolor="#66b2b2">
-<tr>
-<td width="50%" valign="top">
 
-**🤖 About Me:**
-```javascript
-const nabin = {
-    location: "Nepal 🇳🇵",
-    currentRole: "Full-Stack Developer",
-    company: "Open for opportunities",
-    
-    dailyRoutine: {
-        morning: "☕ Coffee + 📖 Tech News",
-        afternoon: "💻 Coding + 🔧 Building",
-        evening: "📚 Learning + 🎵 Music"
-    },
-    
-    currentFocus: [
-        "Docker & Kubernetes 🐳",
-        "AWS Cloud Services ☁️", 
-        "React Native Mobile Apps 📱",
-        "System Design 🏗️"
-    ],
-    
-    lifePhilosophy: "Keep learning, keep building! 🚀"
-}
+[![Portfolio](https://img.shields.io/badge/🌐_nabinhamal.com.np-7C3AED?style=flat-square&logoColor=white)](https://nabinhamal.com.np)&nbsp;
+[![Email](https://img.shields.io/badge/📧_nabinhamal2@gmail.com-0f0c29?style=flat-square&logoColor=white)](mailto:nabinhamal2@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-302b63?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabinhamal)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-24243e?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/nabinhamal)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ABOUT + CODE BLOCK SPLIT -->
+<table width="100%" border="0">
+<tr>
+<td width="55%" valign="top">
+
+## 👤 Who Am I?
+
+I'm a **Full-Stack Developer** based in 🇳🇵 **Kathmandu, Nepal** — obsessed with turning ideas into clean, fast, and delightful digital products.
+
+Whether it's a **pixel-perfect React UI**, a **scalable Node.js API**, or a **cross-platform mobile app**, I care about the details that make users say *"wow."*
+
+Currently leveling up in:
+- 🐳 **Docker & Kubernetes** — containerizing everything
+- ☁️ **AWS** — cloud-native architecture
+- 📱 **React Native** — smooth mobile experiences
+- 🏗️ **System Design** — thinking at scale
+
+> *"Code is craft. Ship with intention."*
+
+📬 Open to **collaborations, freelance work**, and **full-time roles.**
+
+</td>
+<td width="45%" valign="top">
+
+```typescript
+// nabin.config.ts
+
+const developer = {
+  name:     "Nabin Hamal",
+  role:     "Full-Stack Developer",
+  location: "Kathmandu, Nepal 🏔️",
+
+  stack: {
+    frontend:  ["React", "Next.js", "Tailwind"],
+    backend:   ["Node.js", "Express", "GraphQL"],
+    mobile:    ["React Native"],
+    database:  ["MongoDB", "PostgreSQL", "Redis"],
+    cloud:     ["AWS", "Docker", "Linux"],
+  },
+
+  currentlyBuilding: "Cloud-Native Applications ☁️",
+  funFact: "I debug with console.log() 🐛",
+
+  goals2025: [
+    "Master Kubernetes",
+    "Launch a SaaS product",
+    "Contribute to major OSS",
+    "Learn Rust",
+  ],
+} satisfies Developer;
+
+export default developer;
 ```
 
 </td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💬 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🚀 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
 <td width="50%" valign="top">
 
-**📊 Quick Stats:**
-- 🔭 Currently working on **Cloud-Native Applications**
-- 🌱 Learning **Docker, AWS & React Native**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 🤔 Exploring **Microservices Architecture**
-- 💬 Ask me about **React, Node.js, MongoDB**
-- 📫 Reach me at **nabinhamal2@gmail.com**
-- ⚡ Fun fact: **I debug with console.log() and I'm not ashamed!**
+### 🌐 Project One
+> *Replace with your real project name*
 
-**🎯 2025 Goals:**
-- [ ] Master Kubernetes
-- [ ] Build a SaaS product
-- [ ] Contribute to major OSS projects
-- [ ] Learn Rust programming language
+A brief 2-line description of what this project does and why it matters. What problem does it solve?
+
+**Stack:** `React` `Node.js` `MongoDB` `AWS`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-7C3AED?style=flat-square&logo=github)](https://github.com/nabinhamal)
+[![Live](https://img.shields.io/badge/Live-Demo-00C896?style=flat-square&logo=vercel)](https://nabinhamal.com.np)
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Project Two
+> *Replace with your real project name*
+
+A brief 2-line description of what this project does and why it matters. What problem does it solve?
+
+**Stack:** `React Native` `Firebase` `GraphQL`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-7C3AED?style=flat-square&logo=github)](https://github.com/nabinhamal)
+[![Live](https://img.shields.io/badge/Live-Demo-00C896?style=flat-square&logo=appstore)](https://nabinhamal.com.np)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Project Three
+> *Replace with your real project name*
+
+A brief 2-line description of what this project does and why it matters. What problem does it solve?
+
+**Stack:** `Next.js` `PostgreSQL` `Docker` `AWS`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-7C3AED?style=flat-square&logo=github)](https://github.com/nabinhamal)
+[![Live](https://img.shields.io/badge/Live-Demo-00C896?style=flat-square&logo=vercel)](https://nabinhamal.com.np)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Project Four
+> *Replace with your real project name*
+
+A brief 2-line description of what this project does and why it matters. What problem does it solve?
+
+**Stack:** `TypeScript` `Express` `Redis` `Linux`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-7C3AED?style=flat-square&logo=github)](https://github.com/nabinhamal)
+[![Live](https://img.shields.io/badge/Live-Demo-00C896?style=flat-square&logo=vercel)](https://nabinhamal.com.np)
 
 </td>
 </tr>
 </table>
-</div>
 
-<br/>
+> 📂 **[See all projects →](https://github.com/nabinhamal?tab=repositories)**
 
-<!-- Tech Stack Section -->
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-<h2>🛠️ Tech Stack & Tools</h2>
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-### ⚙️ Backend Development  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### 🚀 DevOps & Cloud
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-
-</div>
-
-<br/>
-
-<!-- GitHub Stats -->
-<div align="center">
-<h2>📊 GitHub Statistics</h2>
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabinhamal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF&count_private=true)
+![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabinhamal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&count_private=true&include_all_commits=true)
 
 </td>
-<td width="50%">
+<td>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabinhamal&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FFAD33&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabinhamal&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FFAD33&sideNums=FFFFFF&sideLabels=A78BFA&dates=888888)
 
 </td>
 </tr>
@@ -132,120 +216,65 @@ const nabin = {
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinhamal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinhamal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8)
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nabinhamal&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area_color=7C3AED&area=true&hide_border=true)
 
 </div>
 
-<br/>
+---
 
-<!-- Activity Graph -->
+## 🏆 Achievements
+
 <div align="center">
-<h2>📈 Contribution Graph</h2>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nabinhamal&theme=tokyo-night&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area_color=7C3AED&area=true&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nabinhamal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
 
 </div>
 
-<br/>
+---
 
-<!-- Achievements -->
+## 🎯 2025 Roadmap
+
 <div align="center">
-<h2>🏆 GitHub Trophies</h2>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nabinhamal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6)
+| Goal | Status |
+|------|--------|
+| 🐳 Master Kubernetes | 🔄 In Progress |
+| 📦 Build & launch a SaaS product | 🔄 In Progress |
+| 🌍 Contribute to major OSS projects | 🎯 Planned |
+| 🦀 Learn Rust programming language | 🎯 Planned |
 
 </div>
 
-<br/>
+---
 
-
-<br/>
-
-<!-- Random Developer Quote -->
+<!-- SNAKE ANIMATION -->
 <div align="center">
-<h2>💡 Developer Quote</h2>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<br/>
-
-<!-- Contact Section -->
-<div align="center">
-<h2>🤝 Connect With Me</h2>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nabinhamal.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabinhamal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabinhamal2@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nabinhamal)
-
-<br/>
-
-**Let's collaborate and build something amazing together! 🚀**
-
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
+<h2>🐍 Contribution Snake</h2>
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<br/>
+---
 
-<!-- Fun Section -->
-<details>
-<summary><b>🎮 More About Me (Click to expand!)</b></summary>
-
-<br/>
-
-```yaml
-personal_info:
-  name: "Nabin Hamal"
-  age: "Not just a number, but experience level! 😄"
-  location: "Kathmandu, Nepal 🏔️"
-  languages: ["Nepali", "English", "JavaScript", "Python"]
-  
-favorite_things:
-  - "Clean Code 🧹"
-  - "Dark Theme IDEs 🌙"
-  - "Coffee at 3 AM ☕"
-  - "Stack Overflow 📚"
-  - "Debugging with friends 🤝"
-  
-current_status:
-  - "Building cool stuff 🔨"
-  - "Learning new technologies 📖"
-  - "Drinking coffee ☕"
-  - "Probably coding right now 💻"
-
-life_hack: |
-  "The best way to debug code is to explain it to a rubber duck 🦆
-   But coffee works too! ☕"
-```
-
+<!-- FOOTER -->
 <div align="center">
 
-**Fun Fact:** I've probably written "Hello World" in more languages than I can count! 😂
-
-</div>
-
-</details>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=fadeIn"/>
 
 <br/>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,10:FFBA08,30:F77737,75:F25C54,100:9B59B6&height=120&section=footer"/>
-  
-  <br/>
+*"Keep learning, keep building."* — Nabin Hamal 🚀
 
-  <br/>
-  
-  **Thanks for visiting! Have a great day! 😊**
-  
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nabinhamal&color=7C3AED&style=flat-square&label=Profile+Views)
+
+**Thanks for stopping by! ✨ Star a repo if something helped you.**
+
 </div>
