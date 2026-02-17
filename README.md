@@ -196,43 +196,6 @@ High-performance business website built with **React 19 and Next.js**, featuring
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table border="0">
-<tr>
-<td align="center">
-
-![Nabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabinhamal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&count_private=true&include_all_commits=true)
-
-</td>
-<td align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nabinhamal&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FFAD33&sideNums=FFFFFF&sideLabels=A78BFA&dates=888888)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinhamal&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nabinhamal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
-
-</div>
-
----
-
 ## 💼 Experience
 
 <table width="100%">
@@ -277,7 +240,7 @@ High-performance business website built with **React 19 and Next.js**, featuring
 | 🍽️ Scale MenuFlow to 100+ restaurants | 🔄 In Progress |
 | 📦 Build & launch a SaaS product | 🔄 In Progress |
 | 🌍 Contribute to major OSS projects | 🎯 Planned |
-| 🦀 Learn Rust programming language | 🎯 Planned |
+| 🦀 Learn Python programming language | 🎯 Planned |
 
 </div>
 
