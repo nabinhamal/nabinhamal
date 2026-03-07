@@ -1,1 +1,41 @@
+name: README CI
 
+on:
+    push:
+        paths:
+            - "README.md"
+            - "PROFILE_README.md"
+    pull_request:
+        paths:
+            - "README.md"
+            - "PROFILE_README.md"
+
+jobs:
+    lint-markdown:
+        name: 📝 Lint Markdown
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Lint README.md
+              uses: DavidAnson/markdownlint-cli2-action@v16
+              with:
+                  globs: |
+                      README.md
+                      PROFILE_README.md
+
+    spellcheck:
+        name: ✏️ Spell Check
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Spell check README files
+              uses: streetsidesoftware/cspell-action@v6
+              with:
+                  files: |
+                      README.md
+                      PROFILE_README.md
+                  incremental_files_only: false
