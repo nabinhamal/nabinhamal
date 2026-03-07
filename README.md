@@ -331,7 +331,7 @@ React 19 + Next.js with advanced GSAP animations and optimised rendering for an 
 
 | Goal                                          | Status         |
 | :-------------------------------------------- | :------------- |
-| 🍽️ Scale MenuFlow to 100+ restaurants         | 🔄 In Progress |
+| 🍽️ Scale MenuFlow to real clients             | 🔄 In Progress |
 | 📦 Build & launch an independent SaaS product | 🔄 In Progress |
 | 🤖 Ship a production RAG / Agentic AI app     | 🔄 In Progress |
 | 🌍 Meaningful OSS contributions               | 🎯 Planned     |
