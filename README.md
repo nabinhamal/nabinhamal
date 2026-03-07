@@ -1,21 +1,39 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                        HERO SECTION                          -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,50:1a1040,100:0d1b2a&height=200&section=header&text=Nabin%20Hamal&fontSize=80&fontAlign=50&fontAlignY=45&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20Explorer&descSize=18&descAlignY=68&descAlign=50&stroke=6D28D9&strokeWidth=1.5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1e0a4e,100:0d1b2a&height=240&section=header&text=Nabin%20Hamal&fontSize=72&fontAlign=50&fontAlignY=42&fontColor=EDE9FE&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20Explorer&descSize=17&descAlignY=64&descAlign=50"/>
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1500&color=8B5CF6&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+Engineer+%7C+React+%2F+Next.js+%2F+TypeScript;Building+scalable+SaaS+products+%F0%9F%9A%80;Exploring+Gen+AI+%26+RAG+Pipelines+%F0%9F%A4%96;From+Kathmandu%2C+Nepal+%F0%9F%8F%94%EF%B8%8F;Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3500&pause=1800&color=A78BFA&background=00000000&center=true&vCenter=true&width=680&height=42&lines=%E2%96%B8+Full-Stack+Engineer+%7C+React+%2B+Next.js+%2B+TypeScript;%E2%96%B8+2%2B+Years+shipping+production+SaaS+products;%E2%96%B8+Exploring+Gen+AI+%26+RAG+Pipelines+%F0%9F%A4%96;%E2%96%B8+Based+in+Kathmandu%2C+Nepal+%F0%9F%8F%94%EF%B8%8F;%E2%96%B8+Open+to+full-time+%26+freelance+roles" alt="Typing SVG" />
 </div>
 
 <br/>
 
+<!-- CONTACT BADGES -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-nabinhamal.com.np-6D28D9?style=flat&logo=vercel&logoColor=white)](https://nabinhamal.com.np)&ensp;
-[![Email](https://img.shields.io/badge/-nabinhamal2@gmail.com-0d1b2a?style=flat&logo=gmail&logoColor=white)](mailto:nabinhamal2@gmail.com)&ensp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1040?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabinhamal)&ensp;
-[![GitHub](https://img.shields.io/badge/-GitHub-0d0d1a?style=flat&logo=github&logoColor=white)](https://github.com/nabinhamal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nabinhamal.com.np-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://nabinhamal.com.np)
+[![Email](https://img.shields.io/badge/Email-nabinhamal2%40gmail.com-0f0f1a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nabinhamal2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nabinhamal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabinhamal)
+[![GitHub](https://img.shields.io/badge/GitHub-nabinhamal-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabinhamal)
+
+</div>
+
+<br/>
+
+<!-- GITHUB STATS ROW -->
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nabinhamal&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&rank_icon=github" />
+&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nabinhamal&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabinhamal&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=A78BFA&text_color=C4B5FD&langs_count=6" />
 
 </div>
 
