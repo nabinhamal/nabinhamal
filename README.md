@@ -34,7 +34,7 @@ const nabin: Developer = {
   location: "Kathmandu, Nepal 🏔️",
 
   stack: {
-    frontend:  ["React 19", "Next.js 15", "TypeScript", "Tailwind CSS"],
+    frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
     backend:   ["Node.js", "Express.js", "Server Actions", "WebSockets"],
     mobile:    ["React Native", "Expo"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "Prisma ORM"],
