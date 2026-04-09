@@ -1,59 +1,23 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   HERO - EDITORIAL DARK                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050508,100:0c0718&height=340&text=Nabin%20Hamal&fontSize=110&fontColor=EDE9FE&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=%E2%80%94%20Software%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20Explorer%20%E2%80%94&descSize=15&descAlignY=70&descAlign=50&descColor=7C3AED"/>
-
-</div>
-
-<!-- ─── METADATA STRIP ─────────────────────────────────────── -->
-<div align="center">
-
-<table border="0" cellpadding="16" cellspacing="0" width="100%">
-<tr>
-<td align="center" width="25%">
-<sup>LOCATION</sup><br/>
-<strong>Kathmandu, Nepal 🏔️</strong>
-</td>
-<td align="center" width="25%">
-<sup>ROLE</sup><br/>
-<strong>Software Developer</strong>
-</td>
-<td align="center" width="25%">
-<sup>COMPANY</sup><br/>
-<strong>Diagonal Group</strong>
-</td>
-<td align="center" width="25%">
-<sup>STATUS</sup><br/>
-<strong>🟢 Open to Work</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- ─── CONTACT ────────────────────────────────────────────── -->
-<div align="center">
-
-[![](https://img.shields.io/badge/nabinhamal.com.np-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://nabinhamal.com.np)
-[![](https://img.shields.io/badge/Email-0f0a1e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nabinhamal2@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabinhamal)
-[![](https://img.shields.io/badge/GitHub-131320?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabinhamal)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,50:110d2e,100:1a0533&height=220&text=Nabin%20Hamal&fontSize=72&fontColor=f0ebff&fontAlign=50&fontAlignY=42&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20Explorer&descSize=16&descAlignY=65&descAlign=50&descColor=9d7fe0"/>
 
 </div>
 
 <br/>
 
-<!-- ─── GITHUB STATS ROW ──────────────────────────────────── -->
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=nabinhamal&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=05050800&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&rank_icon=github&include_all_commits=true"/>
-&nbsp;
-<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=nabinhamal&theme=midnight-purple&hide_border=true&background=05050800&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD"/>
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabinhamal&layout=compact&theme=midnight-purple&hide_border=true&bg_color=05050800&title_color=A78BFA&text_color=C4B5FD&langs_count=5"/>
+[![Portfolio](https://img.shields.io/badge/nabinhamal.com.np-1a0533?style=for-the-badge&logo=vercel&logoColor=b48efe)](https://nabinhamal.com.np)&nbsp;
+[![Email](https://img.shields.io/badge/nabinhamal2%40gmail.com-1a0533?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nabinhamal2@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/nabinhamal)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabinhamal)
+
+<br/>
+
+![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Full--Stack%20%7C%20AI%20Roles-7c3aed?style=flat-square)&nbsp;
+![Location](https://img.shields.io/badge/%F0%9F%8F%94%EF%B8%8F%20Kathmandu-Nepal-3b2d6e?style=flat-square)&nbsp;
+![Experience](https://img.shields.io/badge/%E2%9A%A1%202%2B%20Years-Production%20Experience-3b2d6e?style=flat-square)
 
 </div>
 
@@ -61,308 +25,262 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      ABOUT + CONFIG                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+## `whoami`
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="53%" valign="top">
-
-<br/>
-
-### About
-
-Software Developer from 🇳🇵 **Kathmandu, Nepal** with **2+ years** of hands-on experience building production-ready full-stack applications.
-
-I design REST APIs, implement auth systems, and ship **React / Next.js / TypeScript** products from zero to production — including VPS deployment with **Nginx** and CI pipelines.
-
-Currently at **Diagonal Group** delivering Next.js Server Actions features and cutting API response times by **~30%.**
-
-Alongside that, I'm actively learning **Generative AI and Machine Learning** — building RAG pipelines, LLM-backed tools, and agentic workflows from scratch.
-
-> _"Shipping clean, intentional code is the craft."_
-
-📬 Open to full-time roles, remote freelance & OSS collaboration.
-
-<br/>
-
-</td>
-<td width="4%"></td>
-<td width="43%" valign="top">
-
-```typescript
-// nabin.config.ts
-const nabin = {
-  name: "Nabin Hamal",
-  role: "Software Developer",
+```ts
+const nabin: Developer = {
+  name:     "Nabin Hamal",
+  role:     "Software Developer @ Diagonal Group",
   location: "Kathmandu, Nepal 🏔️",
 
   stack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
-    backend: ["Node.js", "Express", "Prisma ORM"],
-    mobile: ["React Native"],
-    data: ["PostgreSQL", "MongoDB", "Redis"],
-    auth: ["Clerk", "Better Auth", "OAuth 2.0"],
-    infra: ["Docker", "VPS", "Nginx", "AWS"],
+    frontend:  ["React 19", "Next.js 15", "TypeScript", "Tailwind CSS"],
+    backend:   ["Node.js", "Express.js", "Server Actions", "WebSockets"],
+    mobile:    ["React Native", "Expo"],
+    databases: ["PostgreSQL", "MongoDB", "Redis", "Prisma ORM"],
+    infra:     ["Docker", "VPS", "Nginx", "GitHub Actions", "AWS"],
+    auth:      ["Clerk", "Better Auth", "OAuth 2.0", "JWT", "RBAC"],
   },
 
-  learning: {
-    ai: ["Gen AI", "RAG", "LangChain", "Embeddings", "ML Fundamentals"],
-  },
+  ai: ["Claude API", "Groq", "RAG Pipelines", "LangChain", "Pinecone"],
 
-  current: "@ Diagonal Group",
-  seeking: "Full-Stack / AI roles",
-} satisfies Developer;
+  achievements: [
+    "45% reduction in MongoDB query execution time",
+    "30% improvement in API response times via SSR optimisation",
+    "40%+ fewer network requests through TanStack Query strategies",
+  ],
+
+  currentlyBuilding: ["remindd (React Native medicine app)", "whisper", "Denis AI"],
+  seeking:           "Full-Stack / AI-integrated product roles",
+};
 ```
 
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+## Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nabinhamal&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a1200&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&rank_icon=github&include_all_commits=true"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nabinhamal&theme=midnight-purple&hide_border=true&background=0a0a1200&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=c4b5fd"/>
+
+<br/><br/>
+
+<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabinhamal&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a1200&title_color=a78bfa&text_color=c4b5fd&langs_count=6"/>
+
+</div>
+
+<br/>
+
+---
 
 ## Stack
 
 <div align="center">
 
-**Languages**<br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d1a?style=for-the-badge&logo=typescript&logoColor=3B82F6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=for-the-badge&logo=javascript&logoColor=F59E0B)
-![C++](https://img.shields.io/badge/C++-0d0d1a?style=for-the-badge&logo=c%2B%2B&logoColor=7C3AED)
-![HTML5](https://img.shields.io/badge/HTML-0d0d1a?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS-0d0d1a?style=for-the-badge&logo=css3&logoColor=1572B6)
+**Frontend**
 
-<br/>
+![React](https://img.shields.io/badge/React-0f0a1e?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0f0a1e?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0a1e?style=for-the-badge&logo=typescript&logoColor=3B82F6)
+![Tailwind](https://img.shields.io/badge/Tailwind-0f0a1e?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![React Native](https://img.shields.io/badge/React_Native-0f0a1e?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GSAP](https://img.shields.io/badge/GSAP-0f0a1e?style=for-the-badge&logo=greensock&logoColor=88CE02)
+![Framer](https://img.shields.io/badge/Framer_Motion-0f0a1e?style=for-the-badge&logo=framer&logoColor=7C3AED)
+![shadcn](https://img.shields.io/badge/shadcn%2Fui-0f0a1e?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-**Frontend**<br/>
-![React](https://img.shields.io/badge/React-0d0d1a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d1a?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-0d0d1a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d0d1a?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d0d1a?style=for-the-badge&logo=framer&logoColor=7C3AED)
-![GSAP](https://img.shields.io/badge/GSAP-0d0d1a?style=for-the-badge&logo=greensock&logoColor=88CE02)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0d0d1a?style=for-the-badge&logo=shadcnui&logoColor=white)
+**Backend & Data**
 
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-0f0a1e?style=for-the-badge&logo=node.js&logoColor=4ADE80)
+![Express](https://img.shields.io/badge/Express-0f0a1e?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0a1e?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f0a1e?style=for-the-badge&logo=mongodb&logoColor=4ADE80)
+![Redis](https://img.shields.io/badge/Redis-0f0a1e?style=for-the-badge&logo=redis&logoColor=F87171)
+![Prisma](https://img.shields.io/badge/Prisma-0f0a1e?style=for-the-badge&logo=prisma&logoColor=A78BFA)
+![BullMQ](https://img.shields.io/badge/BullMQ-0f0a1e?style=for-the-badge&logo=redis&logoColor=F87171)
 
-**Backend & Data**<br/>
-![Node.js](https://img.shields.io/badge/Node.js-0d0d1a?style=for-the-badge&logo=node.js&logoColor=4ADE80)
-![Express](https://img.shields.io/badge/Express-0d0d1a?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0d0d1a?style=for-the-badge&logo=prisma&logoColor=A78BFA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d1a?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d1a?style=for-the-badge&logo=mongodb&logoColor=4ADE80)
-![Redis](https://img.shields.io/badge/Redis-0d0d1a?style=for-the-badge&logo=redis&logoColor=F87171)
-![Firebase](https://img.shields.io/badge/Firebase-0d0d1a?style=for-the-badge&logo=firebase&logoColor=FBBF24)
+**DevOps & Auth**
 
-<br/>
+![Docker](https://img.shields.io/badge/Docker-0f0a1e?style=for-the-badge&logo=docker&logoColor=38BDF8)
+![Nginx](https://img.shields.io/badge/Nginx-0f0a1e?style=for-the-badge&logo=nginx&logoColor=4ADE80)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f0a1e?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![AWS](https://img.shields.io/badge/AWS-0f0a1e?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Clerk](https://img.shields.io/badge/Clerk-0f0a1e?style=for-the-badge&logo=clerk&logoColor=8B5CF6)
+![JWT](https://img.shields.io/badge/JWT-0f0a1e?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Auth**<br/>
-![Clerk](https://img.shields.io/badge/Clerk-0d0d1a?style=for-the-badge&logo=clerk&logoColor=8B5CF6)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-0d0d1a?style=for-the-badge&logo=auth0&logoColor=EB5424)
-![JWT](https://img.shields.io/badge/JWT-0d0d1a?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+**AI & LLM**
 
-<br/>
-
-**Infrastructure**<br/>
-![Docker](https://img.shields.io/badge/Docker-0d0d1a?style=for-the-badge&logo=docker&logoColor=38BDF8)
-![VPS](https://img.shields.io/badge/VPS-0d0d1a?style=for-the-badge&logo=linux&logoColor=FBBF24)
-![Nginx](https://img.shields.io/badge/Nginx-0d0d1a?style=for-the-badge&logo=nginx&logoColor=4ADE80)
-![AWS](https://img.shields.io/badge/AWS-0d0d1a?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-0d0d1a?style=for-the-badge&logo=git&logoColor=F97316)
-
-<br/>
-
-**Tools**<br/>
-![Figma](https://img.shields.io/badge/Figma-0d0d1a?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Postman](https://img.shields.io/badge/Postman-0d0d1a?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Stripe](https://img.shields.io/badge/Stripe-0d0d1a?style=for-the-badge&logo=stripe&logoColor=635BFF)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-0d0d1a?style=for-the-badge&logo=cloudinary&logoColor=60A5FA)
+![Claude](https://img.shields.io/badge/Claude_API-0f0a1e?style=for-the-badge&logo=anthropic&logoColor=D4A27F)
+![Groq](https://img.shields.io/badge/Groq-0f0a1e?style=for-the-badge&logo=groq&logoColor=F5A623)
+![LangChain](https://img.shields.io/badge/LangChain-0f0a1e?style=for-the-badge&logo=langchain&logoColor=4ADE80)
+![Pinecone](https://img.shields.io/badge/Pinecone-0f0a1e?style=for-the-badge&logo=pinecone&logoColor=60A5FA)
+![Stripe](https://img.shields.io/badge/Stripe-0f0a1e?style=for-the-badge&logo=stripe&logoColor=635BFF)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0f0a1e?style=for-the-badge&logo=cloudinary&logoColor=60A5FA)
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   AI & ML (LEARNING)                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## AI & Machine Learning &nbsp; <sup>_beginner — actively building_</sup>
-
-> Intentionally learning AI/ML through real projects rather than courses alone.
-
-<div align="center">
-
-| Area                | What I'm Building / Learning                                            |
-| :------------------ | :---------------------------------------------------------------------- |
-| **Generative AI**   | LLM integration (Groq, OpenAI), prompt engineering, streaming responses |
-| **RAG Pipelines**   | Chunk → embed → store (Pinecone) → retrieve → generate                  |
-| **AI Agents**       | Autonomous tool-calling loops, multi-step reasoning, Tavily web search  |
-| **LangChain**       | Chains, memory, document loaders, retrieval QA                          |
-| **ML Fundamentals** | Supervised learning, neural networks, transformer architecture basics   |
-| **Vector Search**   | Text embeddings, semantic similarity, Pinecone vector store             |
-
-</div>
+<br/>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       PROJECTS                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## Projects
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-right:12px">
 
-**🍽️ MenuFlow** &nbsp; [![](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://menuflows.vercel.app)<br/>
-_Multi-tenant Restaurant SaaS_
+### 🏠 [Diagonal Platform](https://www.diagonalhomes.com)
+**Real Estate Management · Production**
 
-QR menus, contactless ordering, Stripe billing, real-time analytics, and role-based multi-restaurant access.
+Multi-tenant property platform with approval workflows, visitor analytics, and full admin dashboard. Clerk Auth RBAC across Owner / Manager / Staff roles.
 
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Stripe` `TanStack Query`
+`Next.js 15` `TypeScript` `MongoDB` `Prisma` `Clerk Auth` `TanStack Query`
+
+---
+
+### ♻️ [CashMyCan](https://cashmycan.com.au)
+**Recycling Management · Full-Stack Monorepo**
+
+Real-time recycling tracking via Socket.io WebSockets. Background job pipeline with Redis + BullMQ. Docker Compose stack with zero open inbound ports via Cloudflare Tunnels + auto SSL.
+
+`React 19` `Express v5` `PostgreSQL` `Socket.io` `Redis` `BullMQ` `Docker` `Nginx`
+
+---
+
+### 🤖 [Denis AI](https://github.com/nabinhamal/AI)
+**Agentic RAG Chatbot · VPS Deployed**
+
+Autonomous tool-calling assistant: Groq LLM + Tavily web search + Pinecone RAG retrieval. Self-hosted on VPS behind Nginx.
+
+`Node.js` `Groq` `LangChain` `Tavily` `Pinecone` `Vanilla JS`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-left:12px">
 
-**📅 Routinly** &nbsp; [![](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://routinly.vercel.app)<br/>
-_Academic Scheduling SaaS_
+### 🍽️ [MenuFlow](https://menuflows.vercel.app)
+**Multi-Tenant Restaurant SaaS**
 
-Rule-based auto-scheduling with teacher availability, room constraints, and department configs. Five role tiers.
+QR menus, contactless ordering, Stripe subscription billing, real-time analytics, and role-based multi-restaurant access.
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Stripe` `Cloudinary` `TanStack Query`
+
+---
+
+### 📅 [Routinly](https://routinly.vercel.app)
+**Academic Scheduling SaaS**
+
+Rule-based engine auto-generates timetables from teacher availability, room constraints, and department configs. 5-tier RBAC with Google OAuth + Better Auth.
 
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Better Auth` `TanStack Query`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-**🏠 Diagonal Platform** &nbsp; [![](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://www.diagonalhomes.com)<br/>
-_Real Estate Management_
+### ⚡ [Aecustech](https://aecustech.com.au)
+**Corporate Website · Freelance**
 
-Property workflows, visitor analytics, admin dashboards, Clerk Auth RBAC across a multi-tenant platform.
+Performance-optimised enterprise site with GSAP scroll animations and micro-interactions. React 19 + Next.js for fast, smooth rendering.
 
-`Next.js` `TypeScript` `MongoDB` `Prisma` `Clerk Auth` `TanStack Query`
-
-</td>
-<td width="50%" valign="top">
-
-**🤖 Denis AI** &nbsp; [![](https://img.shields.io/badge/Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/nabinhamal/AI)<br/>
-_Gen AI Chatbot with RAG & Web Search_
-
-Autonomous tool-calling LLM assistant: Groq + Tavily web search + RAG retrieval. Deployed on VPS + Nginx.
-
-`Node.js` `Express` `Groq` `Tavily` `Pinecone` `Vanilla JS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**⚡ Accustech** &nbsp; [![](https://img.shields.io/badge/Live-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://accustech.com.au)<br/>
-_Enterprise Business Website_
-
-React 19 + Next.js with advanced GSAP animations and optimised rendering for an enterprise audience.
-
-`React 19` `Next.js` `GSAP` `TypeScript` `Framer Motion`
-
-</td>
-<td width="50%" valign="top">
-
-<br/><br/>
-
-📂 **[View all repositories →](https://github.com/nabinhamal?tab=repositories)**
+`React 19` `Next.js` `TypeScript` `GSAP` `Framer Motion`
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+📂 **[View all repositories →](https://github.com/nabinhamal?tab=repositories)**
+
+<br/>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      EXPERIENCE                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## Experience
+
+<table width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
+
+**Software Developer**
+[Diagonal Group](https://www.diagonalhomes.com) · Lalitpur, Nepal
+`Apr 2025 – Present`
+
+- Shipped full-stack features with Next.js 15 + Server Actions, cutting client-side bundle size via fewer API round-trips
+- Improved API response times **~30%** through SSR optimisation and PostgreSQL query tuning
+- Built property approval workflows, visitor analytics, and multi-level RBAC dashboard
+- Reduced network requests **40%+** via TanStack Query cache invalidation + optimistic updates
+- Participated in Agile sprints, PR reviews, and secure coding practices
+
+</td>
+<td width="50%" valign="top">
+
+**MERN Stack Developer**
+Mantrain Nepal Pvt Ltd · Bhaktapur, Nepal
+`Feb 2024 – Jan 2025`
+
+- Designed and maintained **20+ RESTful API endpoints** with 99.5% production uptime
+- Cut MongoDB query execution time by **45%** via targeted indexing and aggregation pipelines
+- Engineered reusable auth, error-handling, and logging middleware across 3 services
+- Maintained sub-200ms response times through Redis caching and query optimisation
+- Aligned API contracts with frontend teams, standardising request/response schemas
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## Certifications
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Software Developer** — [Diagonal Group](https://www.diagonalhomes.com)<br/>
-<sup>Apr 2025 – Present · Lalitpur, Nepal</sup>
-
-- Full-stack feature delivery with **Next.js + TypeScript + Server Actions**
-- Improved API response times **~30%** via SSR & query optimisation
-- Built analytics dashboards, user management & content moderation
-- **Clerk Auth** RBAC across multi-tenant applications
-- Production deployment on **VPS** with Nginx reverse proxy & CI pipelines
+🧠 **Building with the Claude API** — *Anthropic · 2026*
+Multi-turn conversations, tool use / function calling, streaming, structured output parsing, token optimisation, and safe system prompt design.
 
 </td>
 <td width="50%" valign="top">
 
-**MERN Stack Developer** — Mantrain Nepal Pvt Ltd<br/>
-<sup>Feb 2024 – Jan 2025 · Bhaktapur, Nepal</sup>
-
-- Designed & maintained RESTful APIs with **Node.js + Express.js**
-- Reduced MongoDB query time **45%** via strategic indexing
-- Built reusable auth, error-handling & logging middleware
-- Integrated payment gateways and third-party analytics
-- Maintained **99.5% uptime** via caching & performance tuning
+📊 **Google Data Analytics Professional Certificate** — *Coursera / Google · 2023*
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ROADMAP                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+---
 
 ## 2025 Roadmap
 
-<div align="center">
-
-| Goal                                          | Status         |
-| :-------------------------------------------- | :------------- |
-| 🍽️ Scale MenuFlow to real clients             | 🔄 In Progress |
-| 📦 Build & launch an independent SaaS product | 🔄 In Progress |
-| 🤖 Ship a production RAG / Agentic AI app     | 🔄 In Progress |
-| 🌍 Meaningful OSS contributions               | 🎯 Planned     |
-| 🧠 Deepen ML & AI fundamentals beyond tooling | 🎯 Planned     |
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        FOOTER                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0718,100:050508&height=80&section=footer&animation=fadeIn&fontSize=14&text=Keep%20shipping.%20Keep%20learning.&fontColor=7C3AED&fontAlignY=55"/>
+| Goal | Status |
+|:-----|:------:|
+| 🍽️ Scale MenuFlow to paying clients | 🔄 In Progress |
+| 📦 Launch an independent SaaS product | 🔄 In Progress |
+| 🤖 Ship a production-grade RAG / Agentic AI app | 🔄 In Progress |
+| 📱 Launch remindd on the App Store | 🔄 In Progress |
+| 🌍 Meaningful OSS contributions | 🎯 Planned |
+| 🧠 Deepen ML & AI fundamentals beyond tooling | 🎯 Planned |
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nabinhamal&color=7C3AED&style=flat-square&label=Profile+Views)
+---
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:110d2e,100:0a0a12&height=100&section=footer&animation=fadeIn&fontSize=13&text=Keep%20shipping.%20Keep%20learning.&fontColor=7c3aed&fontAlignY=65"/>
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=nabinhamal&color=7c3aed&style=flat-square&label=Profile+Views)
 
 </div>
