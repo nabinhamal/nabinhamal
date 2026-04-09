@@ -256,7 +256,7 @@ Multi-turn conversations, tool use / function calling, streaming, structured out
 
 ---
 
-## 2025 Roadmap
+## 2026 Roadmap
 
 | Goal | Status |
 |:-----|:------:|
